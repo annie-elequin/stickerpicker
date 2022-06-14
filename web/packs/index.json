@@ -1,6 +1,10 @@
 {
   "packs": [
-    "p5e3ae53198501d340a642d90_by_StickerfyBot.json"
+    "p5e3ae53198501d340a642d90_by_StickerfyBot.json",
+    "LINEHD_frown_cat.json",
+    "Derpingpack.json",
+    "squadmemeselequin.json",
+    "PusheenMoods.json"
   ],
   "homeserver_url": "https://matrix.beeper.com"
 }
